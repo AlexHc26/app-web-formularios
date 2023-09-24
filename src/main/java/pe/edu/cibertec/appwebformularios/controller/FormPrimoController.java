@@ -1,4 +1,4 @@
 package pe.edu.cibertec.appwebformularios.controller;
 
-public class FormimcController {
+public class FormPrimoController {
 }
